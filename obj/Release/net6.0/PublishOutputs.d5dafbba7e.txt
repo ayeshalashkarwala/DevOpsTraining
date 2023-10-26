@@ -1,0 +1,7 @@
+D:\Practice\DevOpsHtml\DevOpsHtml\obj\Release\net6.0\PubTmp\Out\DevOpsHtml.exe
+D:\Practice\DevOpsHtml\DevOpsHtml\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Practice\DevOpsHtml\DevOpsHtml\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Practice\DevOpsHtml\DevOpsHtml\obj\Release\net6.0\PubTmp\Out\DevOpsHtml.dll
+D:\Practice\DevOpsHtml\DevOpsHtml\obj\Release\net6.0\PubTmp\Out\DevOpsHtml.deps.json
+D:\Practice\DevOpsHtml\DevOpsHtml\obj\Release\net6.0\PubTmp\Out\DevOpsHtml.runtimeconfig.json
+D:\Practice\DevOpsHtml\DevOpsHtml\obj\Release\net6.0\PubTmp\Out\DevOpsHtml.pdb

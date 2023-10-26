@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hppZ12Ub/l1nytQLho9T3tMJySdDC3ulRECQ36cRzvHdWskVW3LZxBKfGDCZuixFNxglBKuGeaatSF8q3DBZ6g==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\DevOpsHtml\\DevOpsHtml\\DevOpsHtml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aisha Lashkarwala\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.20\\microsoft.netcore.app.runtime.win-x64.6.0.20.nupkg.sha512",
+    "C:\\Users\\Aisha Lashkarwala\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.20\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.20.nupkg.sha512",
+    "C:\\Users\\Aisha Lashkarwala\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.20\\microsoft.aspnetcore.app.runtime.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
